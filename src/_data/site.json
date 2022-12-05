@@ -1,11 +1,11 @@
 {
-  "primaryColor": "#705446",
+  "primaryColor": "#fdf4e3",
   "author": "Davide Sicignani",
   "name": "DIY Cookbook",
   "searchLabel": "Find recipes by name, tag or ingredients",
   "servingsLabel": "servings",
   "searchContainsLabel": "Contains",
-  "secondaryColor": "#e1c391",
+  "secondaryColor": "#705446",
   "ingredientsLabel": "Ingredients",
   "metaDescription": "The online DIY cookbook of Davide Sicignani",
   "baseURL": "https://myonlinecookbook.netlify.app"
